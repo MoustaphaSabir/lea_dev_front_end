@@ -1,0 +1,25 @@
+/* Le rouge dans différents formats de couleur */
+
+p {
+    color: white;
+    color: #f4efef;
+    color: rgb(218, 217, 217);
+    color: hsl(0, 19%, 94%);
+    color: hwb(0 95% 4%);
+}
+
+div {
+    color: black;
+    color: #131212;
+    color: rgb(6, 6, 6);
+    color: hsl(0, 0%, 7%);
+    color: hwb(0 4% 96%);
+}
+
+div p{
+    color: brown;
+    color: #d32323;
+    color: rgb(210, 19, 19);
+    color: hsl(0, 78%, 48%);
+    color: hwb(0 11% 4%);
+}

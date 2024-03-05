@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+    color : white
+}
+h1{
+    text-transform :uppercase;
+    font-size: larger;
+    color: #4f38d1;
+}

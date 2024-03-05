@@ -1,0 +1,91 @@
+body{
+    background-image: url("../../images/bg-spider.png");
+    font-family: 'Roboto', sans-serif;
+
+}
+header{
+   background-color:  rgba(0, 0, 0, 0.6);
+}
+a{
+    color :white;
+    text-transform: uppercase;
+    text-decoration :none;
+    font-size: 19px;
+    font-weight: 700;
+    letter-spacing: 1.5px; ;
+  
+}
+
+a:hover{
+    text-decoration: underline;
+}
+q{
+    font-style: italic;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 700px;
+    /* background: rgb(252, 237, 237); */
+    text-shadow: 2px 2px 4px  rgba(0, 0, 0, 0.6) ;
+
+}
+.tagline{
+    font-weight: 400;
+    word-spacing: 3px;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    margin-top: 35px;
+     color: aliceblue;
+     text-shadow:
+      5px 5px darkred,
+     -5px -5px darkblue; 
+}
+h1 :hover{
+    text-shadow:
+    5px 5px darkred,
+   -5px -5px darkblue; 
+}
+/* .top-title {
+    text-align: center;
+} */
+.text-the{
+    font-family: 'Freehand', cursive;
+    font-style :italic;
+    font-weight: 700;
+    line-height: 1;
+    /* text-shadow: 2px 2px 2px red; */
+    font-size :40px;
+    color :white;
+}
+.text-amazing{
+    color: white;
+    font-weight: 700;
+    line-height: 1;
+    text-transform : uppercase;
+    font-style: italic;
+    font-size: 120px;
+    /* font-family: 'Roboto', sans-serif; */
+}
+.text-spider-man{
+    color: white;
+    font-weight: 700;
+    font-size : 120px;
+    line-height: 1;
+    text-transform : uppercase;
+    font-style: italic;
+   
+}
+footer p{
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+
+}
+
+
+
+
+

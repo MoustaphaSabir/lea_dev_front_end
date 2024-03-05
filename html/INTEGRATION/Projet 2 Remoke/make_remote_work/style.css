@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Epilogue", sans-serif;
+    font-size: 18px;
+   /* justify-content: end; */
+    /* justify-content: space-between; */
+}
+main{
+    width: 800px;
+    height: 600px;
+    padding-top: 100px;
+    margin-top: 0px;
+    /* background-color: brown; */
+    display: flex;
+    justify-content:end;
+}
+header{
+ background-color: rgb(245, 249, 249);
+ color: #fff;
+ padding: 10px;
+}
+nav {
+    display: inline-block; /* Affiche les éléments de la liste en ligne */
+    margin-right: 15px; /* Espace entre les éléments de la liste */
+    text-decoration: none;
+    color: white; 
+}
+.image-hero-desktop{
+  width:100%;
+  height: 100%;
+  
+}
+.image-hero-desktop img{
+    width: 100%;
+    height: 100%;
+
+}
+
+h1{
+    font-weight: bold;
+}
+p{
+    padding-bottom: 10px;
+}
+.contenairImage{
+    margin-top: 150px;
+}

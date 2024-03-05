@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+  }
+body {
+  background-color:hsl(30, 54%, 90%);
+  display: flex;
+  justify-content: center;
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:100px ;
+  font-style: normal;
+  font-weight:weight;
+  font-size: 16px;
+
+  }
+
+main{
+  
+  width: 600px;
+  background-color: hsl(0, 0%, 100%);
+  margin-top:100px;
+  margin-bottom: 100px;
+  /* margin-right: 0px; */
+  padding:50px;
+  border-radius: 20px;
+}
+img{
+  /* align-self: center; */
+  width: 550px;
+  height: 250px;
+  border-radius: 10px;
+  margin-right: 50px;
+}
+.imageContenair{
+  /* height: 100px;  */
+   overflow: hidden;
+   object-fit: cover;
+  margin-right: 10px;
+  padding-right: 10px ;
+  margin-right: 100px;
+  margin-right: 10px;
+}
+h1{
+  font-family: "Young Serif", serif;
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+}
+h2{
+  color: hsl(30, 91%, 26%);
+  padding-left: 15px;
+}
+.contenairRose{
+ background-color: hsl(330, 100%, 98%);
+ padding: 1px;
+ border-radius: 15px;
+}
+.roseparagraphe{
+  color: hsl(330, 72%, 32%);
+}
+p{
+  font-size: 16px;
+}
+li::marker{
+  color: hsl(30, 91%, 26%);
+  font-weight: bold;
+}
+.liste{
+  font-weight : bold;
+  /* color:hsl(30, 5%, 25%); */
+  color:  hsl(24, 5%, 18%);
+
+}
+.intro{
+  font-weight : bold;
+  color:hsl(30, 5%, 25%);
+  
+}
+.nutrition{
+  margin-right:20px ;
+}
+ol>li{
+  padding-left: 10px;
+}
+ul>li{
+  padding-left: 10px;
+}
+table{
+  width: 100%;
+  margin-bottom: 0;
+  border-collapse:collapse;
+  border-top: none;
+  margin-left: 30px;
+}
+td{
+  border-top: 1px solid hsl(30, 18%, 87%);
+  /* border: 1px solid #333; */
+  padding: 10px; 
+}
+
+.calorie{
+  color:  hsl(30, 91%, 26%);
+  font-weight:bold;
+}
+.colonne td {
+ border: none;
+}
+.below{
+  padding-left: 15px;
+}
+hr{
+  color:  hsl(30, 91%, 26%);
+  border: 1px solid  hsl(20, 6%, 90%);
+}
